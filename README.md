@@ -1,9 +1,5 @@
 <div align="center">
-<style>
-  img {
-    border-radius: 10px;
-  }
-</style>
+
 # Arduino Firebase Control
 
 
