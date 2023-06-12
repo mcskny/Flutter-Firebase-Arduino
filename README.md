@@ -12,6 +12,8 @@
 
 Arduino Firebase Control is an excellent project that facilitates controlling your Arduino devices from your phone. With this project, you can monitor and control various sensors, actuators, and other components connected to your Arduino boards.
 
+![image](https://github.com/mcskny/Flutter-Firebase-Arduino/assets/132782511/db713bcc-75e3-43ad-9b4a-baaad2449e17)
+
 ## Features
 
 - Real-time data monitoring and visualization
