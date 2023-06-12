@@ -1,2 +1,3 @@
-# Flutter-Firebase-Arduino
- 
+# arduino_firebase
+
+A new Flutter project.

@@ -1,0 +1,36 @@
+name: arduino_firebase
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+  
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^2.13.0
+  firebase_database: ^10.2.1
+  firebase_messaging: ^14.6.1
+  flutter_local_notifications: ^14.1.0
+  percent_indicator: ^4.2.3
+  convex_bottom_bar: ^3.2.0
+  salomon_bottom_bar: ^3.3.2
+  flutter_switch: ^0.3.2
+  simple_circular_progress_bar: ^1.0.2
+  syncfusion_flutter_gauges: ^21.2.8
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/
+  fonts:
+  - family: Nunito
+    fonts:
+      - asset: fonts/Nunito-ExtraBold.ttf
