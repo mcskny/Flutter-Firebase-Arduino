@@ -12,7 +12,7 @@
 
 ## Overview
 
-Arduino Firebase Control is a powerful project that allows you to remotely control Arduino NodeMCU devices using Firebase through a Flutter application. With this project, you can monitor and control various sensors, actuators, and other components connected to your Arduino boards.
+Arduino Firebase Control is an excellent project that facilitates controlling your Arduino devices from your phone. With this project, you can monitor and control various sensors, actuators, and other components connected to your Arduino boards.
 
 ## Features
 
