@@ -1,5 +1,9 @@
 <div align="center">
-
+<style>
+  img {
+    border-radius: 10px;
+  }
+</style>
 # Arduino Firebase Control
 
 
@@ -35,8 +39,4 @@ To use the Arduino Firebase Control project, follow these steps:
 ### Installation
 
 coming soon..
-<style>
-  img {
-    border-radius: 10px;
-  }
-</style>
+
