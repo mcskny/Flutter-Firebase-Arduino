@@ -24,13 +24,4 @@ Arduino Firebase Control is an excellent project that facilitates controlling yo
 
 To use the Arduino Firebase Control project, follow these steps:
 
-### Prerequisites
-
-- Install the latest version of Arduino IDE.
-- Create a Firebase project and enable the Realtime Database feature.
-- Set up Flutter development environment.
-
-### Installation
-
-coming soon..
 
